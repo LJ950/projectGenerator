@@ -1,0 +1,14 @@
+{
+  "name": "projectgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateProject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Jones",
+  "license": "ISC",
+  "bin": {
+    "generate": "./generateProject.js"
+  }
+}
